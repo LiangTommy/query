@@ -27,6 +27,11 @@ public class MainActivity extends ActionBarActivity {
 
     public void init() {
     	System.out.print("");
+    	load();
+    }
+    
+    public void load() {
+    	
     }
 
     @Override
