@@ -25,6 +25,9 @@ public class MainActivity extends ActionBarActivity {
         }
     }
 
+    public void init() {
+    	
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
