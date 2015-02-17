@@ -26,6 +26,7 @@ public class MainActivity extends ActionBarActivity {
     }
 
     public void init() {
+
     	load();
     	handle();
     }
@@ -36,6 +37,8 @@ public class MainActivity extends ActionBarActivity {
     
     public void handle() {
     	
+    	System.out.print("");
+
     }
 
     @Override
