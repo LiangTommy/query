@@ -28,9 +28,14 @@ public class MainActivity extends ActionBarActivity {
     public void init() {
     	System.out.print("");
     	load();
+    	handle();
     }
     
     public void load() {
+    	
+    }
+    
+    public void handle() {
     	
     }
 
